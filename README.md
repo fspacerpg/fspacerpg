@@ -11,3 +11,7 @@ Content and graphics are commercial © copyright Martin Rait, FSpace Publication
 FSpaceRPG™, FED RPG™, TayanaRPG™, SeaLion Supremacy™ are trademarks of Martin Rait. All Rights Reserved.
 
 A Creative Commons licence (see license file) applies to markup and code only.
+
+# Notes
+
+This site uses some older forms of html markup to remain partially compatible with old browsers.
