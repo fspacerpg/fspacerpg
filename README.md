@@ -4,7 +4,6 @@ This is the home of the website that replaced fspacerpg.com
 
 The new URL is: https://fspacerpg.github.io/fspacerpg/
 
-
 # Rights
 
 Content and graphics are commercial © copyright Martin Rait, FSpace Publications and other stakeholders. All Rights reserved.
