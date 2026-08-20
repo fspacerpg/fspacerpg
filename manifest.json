@@ -13,6 +13,11 @@
     "background_color": "#000000",
     "shortcuts" : [
       {
+        "name": "Home",
+        "url": "/index.html",
+        "description": "Homepage"
+      },
+      {
         "name": "Browse",
         "url": "/browse.html",
         "description": "List of article categories"
@@ -31,6 +36,31 @@
         "name": "Privacy",
         "url": "/privacy.html",
         "description": "Privacy information"
+      },
+      {
+        "name": "Contact",
+        "url": "/contact.html",
+        "description": "Contact information"
+      },
+      {
+        "name": "Submit",
+        "url": "/submit.html",
+        "description": "Submission information"
+      },
+      {
+        "name": "About",
+        "url": "/c_about.html",
+        "description": "About category articles list"
+      },
+      {
+        "name": "News",
+        "url": "/c_news.html",
+        "description": "News category articles list"
+      },
+      {
+        "name": "Product Informaton",
+        "url": "/c_productinfo.html",
+        "description": "Product information category articles list"
       }
     ],
     "iarc_rating_id": "",
